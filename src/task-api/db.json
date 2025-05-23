@@ -1,0 +1,404 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Pick up milk, eggs, bread and vegetables from Coles.",
+      "created": "2025-05-20T08:15:22.000Z",
+      "due": "2025-05-30",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Finish project proposal",
+      "description": "Draft the first version of the Q2 marketing proposal and send to team for review.",
+      "created": "2025-05-20T10:45:10.000Z",
+      "due": "2025-05-25",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Schedule dentist appointment",
+      "description": "Call Smile Dental and book a check-up for next month.",
+      "created": "2025-05-20T11:30:00.000Z",
+      "due": null,
+      "complete": false
+    },
+    {
+      "id": 4,
+      "title": "Renew car rego online",
+      "description": "Log in to Service NSW, pay renewal fee, download updated registration.",
+      "created": "2025-05-20T12:05:47.000Z",
+      "due": "2025-05-30",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "title": "Team stand-up",
+      "description": "Daily sync with dev team via Zoom.",
+      "created": "2025-05-20T13:00:00.000Z",
+      "due": "2025-05-21",
+      "complete": true
+    },
+    {
+      "id": 6,
+      "title": "Backup laptop",
+      "description": "Run Time Machine backup before system update.",
+      "created": "2025-05-20T14:20:18.000Z",
+      "due": null,
+      "complete": false
+    },
+    {
+      "id": 7,
+      "title": "Update resume",
+      "description": "Add recent projects and skills to CV.",
+      "created": "2025-05-20T15:10:33.000Z",
+      "due": "2025-05-27",
+      "complete": false
+    },
+    {
+      "id": 8,
+      "title": "Pay electricity bill",
+      "description": "Pay through EnergyAustralia portal.",
+      "created": "2025-05-20T16:45:05.000Z",
+      "due": "2025-05-24",
+      "complete": true
+    },
+    {
+      "id": 9,
+      "title": "Write blog post",
+      "description": "Publish article on React performance tips.",
+      "created": "2025-05-20T18:00:00.000Z",
+      "due": "2025-05-28",
+      "complete": false
+    },
+    {
+      "id": 10,
+      "title": "Grocery delivery slot",
+      "description": "Reserve delivery slot for weekend order.",
+      "created": "2025-05-21T07:30:12.000Z",
+      "due": "2025-05-22",
+      "complete": true
+    },
+    {
+      "id": 11,
+      "title": "Fix login bug",
+      "description": "Track down the authentication error on staging.",
+      "created": "2025-05-21T08:50:45.000Z",
+      "due": "2025-05-23",
+      "complete": false
+    },
+    {
+      "id": 12,
+      "title": "Morning run",
+      "description": "5km jog around the park.",
+      "created": "2025-05-21T06:15:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 13,
+      "title": "Read design docs",
+      "description": "Review UI guidelines for upcoming feature.",
+      "created": "2025-05-21T09:05:27.000Z",
+      "due": "2025-05-26",
+      "complete": false
+    },
+    {
+      "id": 14,
+      "title": "Book flight to Sydney",
+      "description": "Find best deal for June business trip.",
+      "created": "2025-05-21T10:22:33.000Z",
+      "due": "2025-05-29",
+      "complete": false
+    },
+    {
+      "id": 15,
+      "title": "Organise desk",
+      "description": "Clean up cables and sort paperwork.",
+      "created": "2025-05-21T11:40:50.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 16,
+      "title": "Submit expense report",
+      "description": "Upload receipts to Concur.",
+      "created": "2025-05-21T13:15:05.000Z",
+      "due": "2025-05-24",
+      "complete": false
+    },
+    {
+      "id": 17,
+      "title": "Practice piano",
+      "description": "Work on Chopin Nocturne.",
+      "created": "2025-05-21T14:00:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 18,
+      "title": "Client call",
+      "description": "Discuss project scope with ACME Corp.",
+      "created": "2025-05-21T15:30:00.000Z",
+      "due": "2025-05-22",
+      "complete": false
+    },
+    {
+      "id": 19,
+      "title": "Clean kitchen",
+      "description": "Wipe surfaces and mop floor.",
+      "created": "2025-05-21T17:10:00.000Z",
+      "due": null,
+      "complete": false
+    },
+    {
+      "id": 20,
+      "title": "Plan weekend hike",
+      "description": "Research trails and pack gear.",
+      "created": "2025-05-21T18:45:00.000Z",
+      "due": "2025-05-25",
+      "complete": false
+    },
+    {
+      "id": 21,
+      "title": "Update dependencies",
+      "description": "Run `npm audit fix` and test app.",
+      "created": "2025-05-22T08:05:00.000Z",
+      "due": "2025-05-23",
+      "complete": false
+    },
+    {
+      "id": 22,
+      "title": "Write unit tests",
+      "description": "Add coverage for edge cases in utils.",
+      "created": "2025-05-22T08:30:45.000Z",
+      "due": "2025-05-27",
+      "complete": false
+    },
+    {
+      "id": 23,
+      "title": "Laundry",
+      "description": "Wash and fold clothes.",
+      "created": "2025-05-22T09:00:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 24,
+      "title": "Prepare presentation",
+      "description": "Slides for Monday’s all-hands meeting.",
+      "created": "2025-05-22T09:45:12.000Z",
+      "due": "2025-05-26",
+      "complete": false
+    },
+    {
+      "id": 25,
+      "title": "Renew gym membership",
+      "description": "Pay annual fee online.",
+      "created": "2025-05-22T10:10:00.000Z",
+      "due": "2025-06-01",
+      "complete": false
+    },
+    {
+      "id": 26,
+      "title": "Review pull requests",
+      "description": "Go through pending PRs on GitHub.",
+      "created": "2025-05-22T10:35:30.000Z",
+      "due": "2025-05-23",
+      "complete": false
+    },
+    {
+      "id": 27,
+      "title": "Doctor follow-up",
+      "description": "Call Dr. Lee’s office about test results.",
+      "created": "2025-05-22T11:00:00.000Z",
+      "due": null,
+      "complete": false
+    },
+    {
+      "id": 28,
+      "title": "Build landing page",
+      "description": "Implement hero section and CTA button.",
+      "created": "2025-05-22T11:25:45.000Z",
+      "due": "2025-05-29",
+      "complete": false
+    },
+    {
+      "id": 29,
+      "title": "Water plants",
+      "description": "Indoor succulents and herbs.",
+      "created": "2025-05-22T12:00:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 30,
+      "title": "Organize photos",
+      "description": "Sort vacation pics into albums.",
+      "created": "2025-05-22T12:45:00.000Z",
+      "due": "2025-05-30",
+      "complete": false
+    },
+    {
+      "id": 31,
+      "title": "Pay rent",
+      "description": "Transfer to landlord’s account.",
+      "created": "2025-05-22T13:10:10.000Z",
+      "due": "2025-05-25",
+      "complete": false
+    },
+    {
+      "id": 32,
+      "title": "Draft newsletter",
+      "description": "Write May edition for subscribers.",
+      "created": "2025-05-22T13:55:00.000Z",
+      "due": "2025-05-28",
+      "complete": false
+    },
+    {
+      "id": 33,
+      "title": "Update LinkedIn profile",
+      "description": "Add new skills and role descriptions.",
+      "created": "2025-05-22T14:30:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 34,
+      "title": "Car service booking",
+      "description": "Schedule 10,000 km maintenance.",
+      "created": "2025-05-22T15:05:00.000Z",
+      "due": "2025-06-05",
+      "complete": false
+    },
+    {
+      "id": 35,
+      "title": "Design logo concepts",
+      "description": "Sketch three variations for review.",
+      "created": "2025-05-22T15:40:30.000Z",
+      "due": "2025-05-27",
+      "complete": false
+    },
+    {
+      "id": 36,
+      "title": "Buy birthday gift",
+      "description": "Order a watch from online store.",
+      "created": "2025-05-22T16:15:00.000Z",
+      "due": "2025-05-29",
+      "complete": false
+    },
+    {
+      "id": 37,
+      "title": "Test payment flow",
+      "description": "Verify checkout on staging environment.",
+      "created": "2025-05-22T16:50:00.000Z",
+      "due": "2025-05-24",
+      "complete": false
+    },
+    {
+      "id": 38,
+      "title": "Plan team lunch",
+      "description": "Decide venue and send invite.",
+      "created": "2025-05-22T17:25:00.000Z",
+      "due": "2025-05-31",
+      "complete": false
+    },
+    {
+      "id": 39,
+      "title": "Review quarterly budget",
+      "description": "Compare actuals vs forecast.",
+      "created": "2025-05-22T18:00:00.000Z",
+      "due": "2025-05-30",
+      "complete": false
+    },
+    {
+      "id": 40,
+      "title": "Write feature spec",
+      "description": "Define acceptance criteria for new module.",
+      "created": "2025-05-22T18:35:00.000Z",
+      "due": "2025-05-26",
+      "complete": false
+    },
+    {
+      "id": 41,
+      "title": "Call plumber",
+      "description": "Fix leaking kitchen sink.",
+      "created": "2025-05-23T07:10:00.000Z",
+      "due": null,
+      "complete": false
+    },
+    {
+      "id": 42,
+      "title": "Clean email inbox",
+      "description": "Archive or delete old messages.",
+      "created": "2025-05-23T07:45:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 43,
+      "title": "Submit tax documents",
+      "description": "Upload to ATO portal before deadline.",
+      "created": "2025-05-23T08:20:00.000Z",
+      "due": "2025-06-10",
+      "complete": false
+    },
+    {
+      "id": 44,
+      "title": "Update roadmap",
+      "description": "Add timelines for remaining features.",
+      "created": "2025-05-23T08:55:00.000Z",
+      "due": "2025-05-29",
+      "complete": false
+    },
+    {
+      "id": 45,
+      "title": "Host movie night",
+      "description": "Invite friends for Saturday evening.",
+      "created": "2025-05-23T09:30:00.000Z",
+      "due": "2025-05-24",
+      "complete": false
+    },
+    {
+      "id": 46,
+      "title": "Refactor authentication code",
+      "description": "Improve token refresh logic.",
+      "created": "2025-05-23T10:05:00.000Z",
+      "due": "2025-05-27",
+      "complete": false
+    },
+    {
+      "id": 47,
+      "title": "Order office supplies",
+      "description": "Pens, notebooks, and printer ink.",
+      "created": "2025-05-23T10:40:00.000Z",
+      "due": "2025-05-26",
+      "complete": false
+    },
+    {
+      "id": 48,
+      "title": "Plan holiday itinerary",
+      "description": "Draft Australia East Coast trip plan.",
+      "created": "2025-05-23T11:15:00.000Z",
+      "due": "2025-06-15",
+      "complete": false
+    },
+    {
+      "id": 49,
+      "title": "Practice Japanese",
+      "description": "Complete Duolingo lessons for the day.",
+      "created": "2025-05-23T11:50:00.000Z",
+      "due": null,
+      "complete": true
+    },
+    {
+      "id": 50,
+      "title": "Finalize UI mockups",
+      "description": "Handoff to devs after stakeholder review.",
+      "created": "2025-05-23T12:25:00.000Z",
+      "due": "2025-05-28",
+      "complete": false
+    }
+  ]
+}
