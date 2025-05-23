@@ -35,13 +35,6 @@ A simple task management application with a React frontend and a mock backend AP
 
    * Starts the Vite development server for the React app.
 
-5. **Preview the production build** (optional)
-
-   ```bash
-   yarn build
-   yarn preview
-   ```
-
 ---
 
 ### 💡 Design Decisions
